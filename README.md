@@ -18,6 +18,10 @@ Passionate about clean architecture, SOLID principles, and writing maintainable 
 
 ---
 
+## 📄 Resume You can view or download my resume here: [My Resume](https://github.com/omar-yosrii/omar-yosrii/blob/main/resume/MyResume.pdf)
+
+---
+
 ## 🛠 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
