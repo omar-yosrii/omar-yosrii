@@ -20,7 +20,7 @@ Passionate about clean architecture, SOLID principles, and writing maintainable 
 
 ## 📄 Resume
 
-You can view or download my resume here: [My Resume](https://github.com/omar-yosrii/omar-yosrii/blob/main/Resume/MyResume.pdf)
+You can view or download my resume here: [My Resume](https://github.com/omar-yosrii/omar-yosrii/blob/main/Resume/MY RESUME.pdf)
 
 ---
 
